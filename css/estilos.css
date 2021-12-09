@@ -1,0 +1,17 @@
+body{
+    background: silver;
+}
+
+header{
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+    font-size: 2em;
+}
+
+footer{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
